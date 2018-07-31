@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- I learned how to implement custom button from this post https://stackoverflow.com/questions/18070008/android-button-background-color-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <gradient
+        android:angle="270"
+        android:endColor="#5A180C"
+        android:startColor="#2B0004" />
+
+    <corners android:radius="0dp" />
+
+    <stroke
+        android:width="2dp"
+        android:color="#320E0E" />
+
+</shape>

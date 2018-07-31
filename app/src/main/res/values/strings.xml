@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="main_motto">You Know Nothing...</string>
+    <string name="main_enter_button">Enter</string>
+    <string name="questions_question_1">1. What is the name of the song that accompanies the Red Wedding?</string>
+    <string name="questions_question_2">2. What methods could be used to kill a White Walker? (Check all that apply).</string>
+    <string name="questions_question_3">3. The name of the battle between Jon Snow and Ramsay Bolton is known as?</string>
+    <string name="questions_question_4">4. What is Littlefinger\'s sigil?</string>
+    <string name="questions_q1_answer_1">The Bear and the Maiden Fair</string>
+    <string name="questions_q1_answer_2">By The Hanging Tree</string>
+    <string name="questions_q1_answer_3">The Rains of Castamere</string>
+    <string name="questions_q1_answer_4">For the Realm</string>
+    <string name="questions_q2_answer_1">Fire</string>
+    <string name="questions_q2_answer_2">Dragonglass</string>
+    <string name="questions_q2_answer_3">Valyrian Steel</string>
+    <string name="questions_q2_answer_4">Beheading</string>
+    <string name="questions_q4_answer_1">Snake</string>
+    <string name="questions_q4_answer_2">Eagle</string>
+    <string name="questions_q4_answer_3">Mouse</string>
+    <string name="questions_q4_answer_4">Mockingbird</string>
+    <string name="questions_submit_button">Submit Answers</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/main_background"
+    tools:context="com.example.android.quiz.MainActivity">
+
+    <!-- Image 'title' was acquired from https://www.flickr.com/photos/121483302@N02/13473480295 with proper cc-->
+
+
+    <ImageView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scaleType="fitStart"
+        android:src="@drawable/title_land"/>
+
+    <TextView
+        android:id="@+id/motto_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/enter_button"
+        android:layout_marginBottom="@dimen/motto_margin_bottom_land"
+        android:text="@string/main_motto"
+        android:textColor="@color/motto_text_color"
+        android:textSize="@dimen/motto_text_size"
+        />
+
+    <Button
+        android:id="@+id/enter_button"
+        style="@style/main_enter_button_land_style"
+        android:onClick="beginQuiz"
+        android:text="@string/main_enter_button"/>
+
+    </RelativeLayout>

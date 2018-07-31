@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#9A1408</color>
+    <color name="main_background">#000000</color>
+    <color name="motto_text_color">#bdbdbd</color>
+    <color name="main_button_text_color">#E49A37</color>
+    <color name="question_background">#AFB2B7</color>
+    <color name="question_text_color">#000000</color>
+    <color name="answer_button_tint">#9A1408</color>
+    <color name="answer_text_color">#ffffff</color>
+    <color name="answer_background">#8F8F99</color>
+
+</resources>
